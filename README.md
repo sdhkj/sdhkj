@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sdhkj
-- 👀 I’m interested in anime and games
-- 🌱 I’m currently learning unity,java,html,css,c#,mysql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+数媒专业
+科技爱好者，参数党
+萌豚+声优厨
+动画制作，独立游戏开发，前端正在学习中
+
 
 <!---
 sdhkj/sdhkj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
